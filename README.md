@@ -1,1 +1,1 @@
-# parrot-mambo-movable-platform
+# Parrot Mambo Mini Drone landing on a moving platform
